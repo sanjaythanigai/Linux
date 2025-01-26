@@ -1,5 +1,5 @@
-cd 
-pwd
-ls
+$ cd - Change Directory
+$ pwd - Current Directory Path
+$ ls - Show List
 ll
 ls -h
