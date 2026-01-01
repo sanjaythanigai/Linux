@@ -3,3 +3,4 @@ $ pwd - Current Directory Path
 $ ls - Show List
 ll
 ls -h
+$ mv - Move command
