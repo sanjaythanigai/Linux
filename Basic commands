@@ -4,3 +4,4 @@ $ ls - Show List
 ll
 ls -h
 $ mv - Move command
+$ cp - Copy Command
