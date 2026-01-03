@@ -5,3 +5,4 @@ ll
 ls -h
 $ mv - Move command
 $ cp - Copy Command
+$ cat <filename> - View Content in the file
