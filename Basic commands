@@ -2,6 +2,7 @@ $ cd - Change Directory
 $ pwd - Current Directory Path
 $ ls - Show List
 ll
+ls -a
 ls -h
 $ mv - Move command
 $ cp - Copy Command
