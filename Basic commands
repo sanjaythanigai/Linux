@@ -8,3 +8,4 @@ $ mv - Move command
 $ cp - Copy Command
 $ cat <filename> - View Content in the file
 $ ps -aux - List all Process
+$ ll - Long List
