@@ -1,3 +1,6 @@
 $ add user
 $ userdel <username>
+$ useradd
+$ chage
+$ usermod
 $ 
