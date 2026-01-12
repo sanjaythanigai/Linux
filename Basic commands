@@ -9,3 +9,5 @@ $ cp - Copy Command
 $ cat <filename> - View Content in the file
 $ ps -aux - List all Process
 $ ll - Long List
+$ date - Shows Date
+$ lsblk - List Block Size
